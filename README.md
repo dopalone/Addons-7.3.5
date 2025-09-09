@@ -1,101 +1,59 @@
-### 📦 WoW Addons for Patch 7.3.5
+🧩 Interface & UI Enhancements
 
-#### 🖥️ UI Tweaks
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/AdvancedInterfaceOptions.zip) **AdvancedInterfaceOptions** – Unlocks hidden interface settings
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Bartender4.zip) **Bartender4** – Full action bar customization :cite[4]
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/DejaCharacterStats.zip) **DejaCharacterStats** – Displays detailed character stats
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Dominos.zip) **Dominos** – Modular action bar replacement
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/ElvUI.zip) **ElvUI** – All-in-one UI overhaul
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/MoveAnything.zip) **MoveAnything** – Allows moving of any UI element
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Quartz.zip) **Quartz** – Cast bar replacement with latency indicator
+- [AdvancedInterfaceOptions](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/AdvancedInterfaceOptions.zip) – Unlocks hidden interface settings. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/AdvancedInterfaceOptions.zip)  
+- [Bartender](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Bartender.zip) – Customizable action bars. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Bartender.zip)  
+- [Dominos](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Dominos.zip) – Modular action bar replacement. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Dominos.zip)  
+- [ElvUI](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/ElvUI.zip) – Full UI overhaul with sleek design. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/ElvUI.zip)  
+- [ElvUI_Enhanced](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/ElvUI_Enhanced.zip) – Adds extra features to ElvUI. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/ElvUI_Enhanced.zip)  
+- [Quartz](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Quartz.zip) – Cast bar replacement with latency tracking. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Quartz.zip)  
+- [SexyMap](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/SexyMap.zip) – Stylish and customizable minimap. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/SexyMap.zip)  
+- [ShadowedUnitFrames](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/ShadowedUnitFrames.zip) – Customizable unit frames. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/ShadowedUnitFrames.zip)  
+- [ZPerl](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/ZPerl.zip) – Classic-style unit frame replacement. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/ZPerl.zip)  
+- [CursorTrail](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/CursorTrail.zip) – Adds visual trails to your cursor. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/CursorTrail.zip)  
+- [Prat](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Prat.zip) – Enhances chat functionality. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Prat.zip)  
+- [Leatrix_Plus](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Leatrix_Plus.zip) – Quality-of-life tweaks for the UI. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Leatrix_Plus.zip)  
+- [DejaCharacterStats](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/DejaCharacterStats.zip) – Displays detailed character stats. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/DejaCharacterStats.zip)  
+- [Omni-CC](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Omni-CC.zip) – Adds cooldown timers to action buttons. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Omni-CC.zip)  
+- [TellMeWhen](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/TellMeWhen.zip) – Visual alerts for buffs, debuffs, cooldowns. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/TellMeWhen.zip)  
 
-#### ⚔️ PvP
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/GladiusEx.zip) **GladiusEx** – Arena enemy frames with customization
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/BattleGroundEnemies.zip) **BattleGroundEnemies** – Tracks enemy players in battlegrounds
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Capping.zip) **Capping** – Battleground timers and objectives
 
-#### 🛡️ Raiding
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/DBM-Core.zip) **DBM-Core** – Deadly Boss Mods core for encounter warnings
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/BigWigs.zip) **BigWigs** – Lightweight boss alert system
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/GTFO.zip) **GTFO** – Alerts when standing in harmful effects
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/RCLootCouncil.zip) **RCLootCouncil** – Loot distribution for raid leaders
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/SavedInstances.zip) **SavedInstances** – Tracks weekly lockouts and currencies
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/ExorsusRaidTools.zip) **ExorsusRaidTools** – Suite of tools for raid leaders
+⚔️ Combat, PvP & Dungeon Tools
 
-#### 📊 Combat Analysis
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Details.zip) **Details!** – Real-time damage and healing meters
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/WeakAuras.zip) **WeakAuras** – Custom alerts and visual effects
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/TellMeWhen.zip) **TellMeWhen** – Visual cooldown and buff tracking
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/OmniCC.zip) **OmniCC** – Cooldown count on items and abilities
+- [DBM](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/DBM.zip) – Deadly Boss Mods for raid and dungeon alerts. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/DBM.zip)  
+- [BigWigs](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/BigWigs.zip) – Lightweight boss encounter warnings. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/BigWigs.zip)  
+- [LittleWigs](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/LittleWigs.zip) – BigWigs plugin for 5-man dungeons. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/LittleWigs.zip)  
+- [GTFO](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/GTFO.zip) – Alerts when standing in harmful effects. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/GTFO.zip)  
+- [MethodDungeonTools](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/MethodDungeonTools.zip) – Plan and optimize dungeon routes. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/MethodDungeonTools.zip)  
+- [MythicPlusTimer](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/MythicPlusTimer.zip) – Tracks Mythic+ dungeon timers. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/MythicPlusTimer.zip)  
+- [AngryKeystones](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/AngryKeystones.zip) – Enhances Mythic+ tracking and interface. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/AngryKeystones.zip)  
+- [AstralKeys](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/AstralKeys.zip) – Share and track keystones across characters. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/AstralKeys.zip)  
+- [BattleGroundEnemies](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/BattleGroundEnemies.zip) – Tracks enemy players in battlegrounds. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/BattleGroundEnemies.zip)  
+- [GladiusEx](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/GladiusEx.zip) – Arena enemy frames and tracking. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/GladiusEx.zip)  
+- [Capping](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Capping.zip) – PvP timers and battleground info. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Capping.zip)  
+- [Plater](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Plater.zip) – Advanced nameplate customization. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Plater.zip)  
+- [TidyPlates_ThreatPlates](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/TidyPlates_ThreatPlates.zip) – Threat-based nameplate styling. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/TidyPlates_ThreatPlates.zip)  
 
-#### 🧭 World Map & Exploration
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/HandyNotes.zip) **HandyNotes** – Adds notes and icons to your map
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/SilverDragon.zip) **SilverDragon** – Rare mob tracking and alerts
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/WorldQuestTracker.zip) **WorldQuestTracker** – Tracks world quests and rewards
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/GatherMate2.zip) **GatherMate2** – Tracks resource nodes (herbs, ores, etc.)
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/TomTom.zip) **TomTom** – Waypoint and navigation assistant
 
-#### 💰 Economy & Trading
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Auctionator.zip) **Auctionator** – Simplifies buying/selling on the Auction House
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/TradeSkillMaster.zip) **TradeSkillMaster** – Advanced auction, crafting, and inventory automation
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Accountant.zip) **Accountant** – Tracks your income and expenditure
+- 📦 Inventory, Professions & Utility Addons
 
-#### 🎒 Inventory Management
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Bagnon.zip) **Bagnon** – Combines all bags into one with search/filtering
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/AdiBags.zip) **AdiBags** – Categorizes items in your bags automatically
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/ArkInventory.zip) **ArkInventory** – Advanced inventory management with rules
+- [Auctionator](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Auctionator.zip) – Simplifies auction house buying and selling. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Auctionator.zip)  
+- [Bagnon](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Bagnon.zip) – Combines all bags into one inventory window. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Bagnon.zip)  
+- [Bagnon_ItemLevel](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Bagnon_ItemLevel.zip) – Displays item levels in Bagnon. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Bagnon_ItemLevel.zip)  
+- [Scrap](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Scrap.zip) – Automatically sells junk items. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Scrap.zip)  
+- [Postal](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Postal.zip) – Enhances mailbox functionality. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Postal.zip)  
+- [GatherMate2](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/GatherMate2.zip) – Tracks gathering nodes on the map. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/GatherMate2.zip)  
+- [GatherMate2_Data](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/GatherMate2_Data.zip) – Preloaded data for GatherMate2. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/GatherMate2_Data.zip)  
+- [HandyNotes](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/HandyNotes.zip) – Adds map notes for treasures, rares, etc. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/HandyNotes.zip)  
+- [SilverDragon](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/SilverDragon.zip) – Alerts and tracks rare spawns. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/SilverDragon.zip)  
+- [SavedInstances](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/SavedInstances.zip) – Tracks weekly dungeon and raid lockouts. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/SavedInstances.zip)  
+- [Simulationcraft](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Simulationcraft.zip) – Exports character data for SimC. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Simulationcraft.zip)  
+- [TradeSkillMaster](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/TradeSkillMaster.zip) – Advanced auction and crafting management. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/TradeSkillMaster.zip)  
+- [Pawn](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Pawn.zip) – Helps compare gear upgrades. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Pawn.zip)  
+- [RCLootCouncil](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/RCLootCouncil.zip) – Streamlines loot distribution in raids. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/RCLootCouncil.zip)  
+- [PremadeGroupsFilter](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/PremadeGroupsFilter.zip) – Filters group finder listings. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/PremadeGroupsFilter.zip)  
+- [Clique](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Clique.zip) – Click-casting and mouseover healing. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Clique.zip)  
+- [VuhDo](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/VuhDo.zip) – Raid frames with healing tools. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/VuhDo.zip)  
+- [WeakAuras](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/WeakAuras.zip) – Powerful visual alerts and tracking. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/WeakAuras.zip)  
+- [NuggetList](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/NuggetList.zip) – Lightweight blacklist addon. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/NuggetList.zip)  
+- [AtlasLoot](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/AtlasLoot.zip) – Browse loot tables from dungeons and raids. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/AtlasLoot.zip)  
 
-#### 🧪 Mythic+ & Dungeons
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/AngryKeystones.zip) **AngryKeystones** – Improves Mythic+ tracking and interface
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/AstralKeys.zip) **AstralKeys** – Shares keystone info across guild/friends
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/MethodDungeonTools.zip) **MethodDungeonTools** – Visual dungeon planning tool
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/KeystoneCompanion.zip) **KeystoneCompanion** – Helps track Mythic+ runs
-
-#### 📚 Lore & Information
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/AtlasLoot.zip) **AtlasLoot** – Browse loot tables from dungeons and raids
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Storyline.zip) **Storyline** – Enhances quest dialog presentation
-
-#### 🧬 Unit Frames
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Clique.zip) **Clique** – Click-casting addon for healers
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Grid2.zip) **Grid2** – Highly customizable raid frames
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/ShadowedUnitFrames.zip) **ShadowedUnitFrames** – Alternative unit frame layout
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/VuhDo.zip) **VuhDo** – Raid healing frames with click-casting
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/ZPerl.zip) **ZPerl** – Classic-style unit frames
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/PitBull4.zip) **PitBull4** – Modular unit frames
-
-#### 🎨 Cosmetic & Immersion
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/CursorTrail.zip) **CursorTrail** – Adds visual trails to your cursor
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/SexyMap.zip) **SexyMap** – Customizable minimap skins and effects
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Myslot.zip) **Myslot** – Saves and restores action bar layouts
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Kui_Nameplates.zip) **Kui_Nameplates** – Clean and customizable nameplates
-
-#### 🧠 Quality of Life
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Leatrix_Plus.zip) **Leatrix Plus** – Automates common tasks and improves UI
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/BugSack.zip) **BugSack** – Captures and manages Lua errors
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/DeadlyBossMods.zip) **DeadlyBossMods** – Full DBM package with all modules
-
-#### 🛠️ Professions
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/GatherMate2_Data.zip) **GatherMate2_Data** – Database for GatherMate2
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/TradeskillInfo.zip) **TradeskillInfo** – Information about recipes and materials
-
-#### 🧥 Gear & Equipment
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Pawn.zip) **Pawn** – Suggests upgrades based on stat weights
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/SimulationCraft.zip) **SimulationCraft** – Generates stat weights and sim profiles
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/ItemLevelDisplay.zip) **ItemLevelDisplay** – Shows item levels on character frame
-
-#### ✉️ Mail
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Postal.zip) **Postal** – Enhances mailbox functionality
-
-#### 💬 Chat
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Prat.zip) **Prat** – Chat window enhancements
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Chatter.zip) **Chatter** – Alternative chat modification addon
-
-#### 🔖 Nameplates
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Plater.zip) **Plater** – Advanced nameplate customization
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/TidyPlates.zip) **TidyPlates** – Clean and thematic nameplates
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/TidyPlates_ThreatPlates.zip) **TidyPlates_ThreatPlates** – Tank-focused nameplate styling
-
-#### 🎁 Bonus & Miscellaneous
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/AllTheThings.zip) **AllTheThings** – Tracks collectibles and achievements
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/RareScanner.zip) **RareScanner** – Alerts for nearby rare mobs and treasures
-- [![Download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/WorldQuestsList.zip) **WorldQuestsList** – Alternative world quest tracker
