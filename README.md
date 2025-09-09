@@ -14,6 +14,9 @@
 - [DejaCharacterStats] – Displays detailed character stats. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/DejaCharacterStats.zip)
 - [Omni-CC] – Adds cooldown timers to action buttons. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Omni-CC.zip)
 - [TellMeWhen] – Visual alerts for buffs, debuffs, cooldowns. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/TellMeWhen.zip)
+- [Clique] – Click-casting and mouseover healing. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Clique.zip)
+- [VuhDo] – Raid frames with healing tools. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/VuhDo.zip)
+- [WeakAuras] – Powerful visual alerts and tracking. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/WeakAuras.zip)
 
 ⚔️ Combat, PvP & Dungeon Tools
 - [DBM] – Deadly Boss Mods for raid and dungeon alerts. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/DBM.zip)
@@ -29,6 +32,7 @@
 - [Capping] – PvP timers and battleground info. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Capping.zip)
 - [Plater] – Advanced nameplate customization. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Plater.zip)
 - [TidyPlates_ThreatPlates] – Threat-based nameplate styling. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/TidyPlates_ThreatPlates.zip)
+- [PremadeGroupsFilter] – Filters group finder listings. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/PremadeGroupsFilter.zip)
 
 📦 Inventory, Professions & Utility Addons
 - [Auctionator] – Simplifies auction house buying and selling. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Auctionator.zip)
@@ -44,10 +48,6 @@
 - [TradeSkillMaster] – Advanced auction and crafting management. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/TradeSkillMaster.zip)
 - [Pawn] – Helps compare gear upgrades. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Pawn.zip)
 - [RCLootCouncil] – Streamlines loot distribution in raids. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/RCLootCouncil.zip)
-- [PremadeGroupsFilter] – Filters group finder listings. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/PremadeGroupsFilter.zip)
-- [Clique] – Click-casting and mouseover healing. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Clique.zip)
-- [VuhDo] – Raid frames with healing tools. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/VuhDo.zip)
-- [WeakAuras] – Powerful visual alerts and tracking. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/WeakAuras.zip)
 - [NuggetList] – Lightweight blacklist addon. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/NuggetList.zip)
 - [AtlasLoot] – Browse loot tables from dungeons and raids. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/AtlasLoot.zip)
 
