@@ -47,7 +47,7 @@
 - [RCLootCouncil] – Streamlines loot distribution in raids. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/RCLootCouncil.zip)
 - [PremadeGroupsFilter] – Filters group finder listings. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/PremadeGroupsFilter.zip)
 - [Clique] – Click-casting and mouseover healing. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Clique.zip)
-- [VuhDo](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/VuhDo.zip) – Raid frames with healing tools. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/VuhDo.zip)
+- [VuhDo] – Raid frames with healing tools. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/VuhDo.zip)
 - [WeakAuras] – Powerful visual alerts and tracking. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/WeakAuras.zip)
 - [NuggetList] – Lightweight blacklist addon. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/NuggetList.zip)
 - [AtlasLoot] – Browse loot tables from dungeons and raids. [![download](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/AtlasLoot.zip)
