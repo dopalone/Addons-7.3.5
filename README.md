@@ -7,6 +7,7 @@
 | Dominos | Modular action bar replacement | [![zip](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Dominos.zip) |
 | ElvUI | Full UI overhaul with sleek design | [![zip](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/ElvUI.zip) |
 | ElvUI_Enhanced | Adds extra features to ElvUI | [![zip](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/ElvUI_Enhanced.zip) |
+| ElvUI_BetterTalentFrame | Must-have talent frame overhaul for ElvUI | [![zip](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/ElvUI_BetterTalentFrame.zip) |
 | Quartz | Cast bar replacement with latency tracking | [![zip](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Quartz.zip) |
 | SexyMap | Stylish and customizable minimap | [![zip](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/SexyMap.zip) |
 | ShadowedUnitFrames | Customizable unit frames | [![zip](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/ShadowedUnitFrames.zip) |
