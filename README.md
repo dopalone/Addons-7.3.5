@@ -41,6 +41,7 @@
 | Plater | Advanced nameplate customization | [![zip](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Plater.zip) |
 | TidyPlates_ThreatPlates | Threat-based nameplate styling | [![zip](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/TidyPlates_ThreatPlates.zip) |
 | PremadeGroupsFilter | Filters group finder listings | [![zip](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/PremadeGroupsFilter.zip) |
+| Exorsus Raid Tools | Powerful addon for managing raid group | [![zip](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/ExRT3910.zip) |
 
 ---
 
