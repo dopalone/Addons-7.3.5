@@ -32,7 +32,7 @@ Also check:
 |------------|---------------|
 | Antorus, the Burning Throne  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastebin.com/nd3ZWazj) |
 
-## ![D](https://raw.githubusercontent.com/dopalone/Addons-7.3.5/main/Stuff/x.png) WeakAuras - Dungeons
+## ![D](https://raw.githubusercontent.com/dopalone/Addons-7.3.5/main/Stuff/ax.png) WeakAuras - Dungeons
 | Dungeon    | Import String |
 |------------|---------------|
 | M+ Affixes  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastes.io/affixes-37) |
