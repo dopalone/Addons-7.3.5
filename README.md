@@ -82,7 +82,9 @@
 
 
 ## WeakAuras - Nighthold
-
+| ---     | Import String |
+|------------|---------------|
+| Nighthold  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastebin.com/2YXGbukq) |
 
 ## WeakAuras - Tomb of Sargeras
 | ---     | Import String |
