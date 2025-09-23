@@ -1,3 +1,8 @@
+Also check: 
+
+
+[![WeakAuras](https://dummyimage.com/200x100/4a90e2/ffffff&text=WeakAuras%20%E2%86%92)](https://github.com/dopalone/Addons-7.3.5/blob/main/WeakAuras.MD)
+
 ## 🧩 Interface & UI Enhancements
 
 | Addon | Description | Download |
@@ -66,8 +71,3 @@
 | RCLootCouncil | Streamlines loot distribution in raids | [![zip](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/RCLootCouncil.zip) |
 | NuggetList | Lightweight blacklist addon | [![zip](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/NuggetList.zip) |
 | AtlasLoot | Browse loot tables from dungeons and raids | [![zip](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/AtlasLoot.zip) |
-
-Also check: 
-
-
-[![WeakAuras](https://dummyimage.com/200x100/4a90e2/ffffff&text=WeakAuras%20%E2%86%92)](https://github.com/dopalone/Addons-7.3.5/blob/main/WeakAuras.MD)
