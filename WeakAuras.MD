@@ -30,7 +30,7 @@
 ## ![D](https://raw.githubusercontent.com/dopalone/Addons-7.3.5/main/Stuff/output-onlinepngtools(2).png) WeakAuras - Dungeons
 | Dungeon    | Import String |
 |------------|---------------|
-| M+ AFFIXES  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastes.io/affixes-37) |
+| M+ Affixes  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastes.io/affixes-37) |
 | The Arcway  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastebin.com/vyaF3kLq) |
 | Vault of the Wardens  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastebin.com/uJRUNtpu) |
 | Karazhan - Upper  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastebin.com/UHmsnds7) |
