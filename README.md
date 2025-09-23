@@ -67,5 +67,5 @@
 | NuggetList | Lightweight blacklist addon | [![zip](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/NuggetList.zip) |
 | AtlasLoot | Browse loot tables from dungeons and raids | [![zip](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/AtlasLoot.zip) |
 
-## [![WA](https://img.shields.io/badge/-WeakAuras-4AB3F4?logo=discord&logoColor=white)] WeakAuras
+## [!WA(https://img.shields.io/badge/-WeakAuras-4AB3F4?logo=discord&logoColor=white)] WeakAuras
 
