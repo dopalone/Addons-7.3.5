@@ -27,7 +27,7 @@
 |------------|---------------|
 | Antorus, the Burning Throne  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastebin.com/nd3ZWazj) |
 
-## WeakAuras - Dungeons
+## ![D](https://raw.githubusercontent.com/dopalone/Addons-7.3.5/main/Stuff/output-onlinepngtools(2).png) WeakAuras - Dungeons
 | Dungeon    | Import String |
 |------------|---------------|
 | M+ AFFIXES  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastes.io/affixes-37) |
