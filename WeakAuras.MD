@@ -34,9 +34,9 @@
 | The Arcway  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastebin.com/vyaF3kLq) |
 | Vault of the Wardens  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastebin.com/uJRUNtpu) |
 | Karazhan - Upper  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastebin.com/UHmsnds7) |
-| Antorus, the Burning Throne  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastebin.com/nd3ZWazj) |
+| Karazhan - Lower  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastes.io/dopalone-4-1) |
 | Cathedral of the Eternal Night  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastebin.com/SK7FiDE8) |
-| Seath of the Triumvirate  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastebin.com/CL7nY8U1) |
+| Seat of the Triumvirate  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastebin.com/CL7nY8U1) |
 | Eye of Azshara  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastebin.com/xekhk8ts) |
 | Black Rook Hold  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastebin.com/Cg2meG4N) |
 | Court of Stars  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastebin.com/K2kTFATP) |
