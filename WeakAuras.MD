@@ -18,17 +18,17 @@ Also check:
 
 
 ## ![Elisande](https://raw.githubusercontent.com/dopalone/Addons-7.3.5/main/Stuff/Elisande_icon_64x64.png) Nighthold
-| ---     | Import String |
+| -     | Import String |
 |------------|---------------|
 | Nighthold  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastebin.com/2YXGbukq) |
 
 ## ![ToS](https://raw.githubusercontent.com/dopalone/Addons-7.3.5/main/Stuff/Tomb_of_Sargeras_icon_64x64.png) Tomb of Sargeras
-| ---     | Import String |
+| -     | Import String |
 |------------|---------------|
 | Tomb of Sargeras  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastebin.com/sskukT9e) |
 
 ## ![A](https://raw.githubusercontent.com/dopalone/Addons-7.3.5/main/Stuff/ax.png) Antorus
-| ---     | Import String |
+| -     | Import String |
 |------------|---------------|
 | Antorus, the Burning Throne  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastebin.com/nd3ZWazj) |
 
