@@ -22,6 +22,7 @@
 | VuhDo | Raid frames with healing tools | [![zip](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/VuhDo.zip) |
 | WeakAuras | Powerful visual alerts and tracking | [![zip](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/WeakAuras.zip) |
 
+
 ---
 
 ## ⚔️ Combat, PvP & Dungeon Tools
@@ -65,3 +66,5 @@
 | RCLootCouncil | Streamlines loot distribution in raids | [![zip](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/RCLootCouncil.zip) |
 | NuggetList | Lightweight blacklist addon | [![zip](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/NuggetList.zip) |
 | AtlasLoot | Browse loot tables from dungeons and raids | [![zip](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/AtlasLoot.zip) |
+
+## (https://img.shields.io/badge/-WeakAuras-4AB3F4?logo=discord&logoColor=white) WeakAuras
