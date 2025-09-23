@@ -42,7 +42,7 @@ Also check:
 | MythicPlusTimer | Tracks Mythic+ dungeon timers | [![zip](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/MythicPlusTimer.zip) |
 | AngryKeystones | Enhances Mythic+ tracking and interface | [![zip](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/AngryKeystones.zip) |
 | AstralKeys | Share and track keystones across characters | [![zip](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/AstralKeys.zip) |
-| BattleGroundEnemies | Tracks enemy players in battlegrounds | [![zip](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/BattleGroundEnemies.zip) |
+| BattlegroundEnemies | Tracks enemy players in battlegrounds | [![zip](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/BattleGroundEnemies.zip) |
 | GladiusEx | Arena enemy frames and tracking | [![zip](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/GladiusEx.zip) |
 | Capping | PvP timers and battleground info | [![zip](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Capping.zip) |
 | Plater | Advanced nameplate customization | [![zip](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Plater.zip) |
