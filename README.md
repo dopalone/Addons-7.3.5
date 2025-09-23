@@ -67,7 +67,7 @@
 | NuggetList | Lightweight blacklist addon | [![zip](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/NuggetList.zip) |
 | AtlasLoot | Browse loot tables from dungeons and raids | [![zip](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/AtlasLoot.zip) |
 
-## WeakAuras
+## WeakAuras - Emerald Nightmare
 
 | Boss       | Import String |
 |------------|---------------|
@@ -79,5 +79,17 @@
 | Cenarius  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastebin.com/pWPZQCX0) |
 | Xavius  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastebin.com/YmtZbZ0g) |
 | Xavius - Nightmare Blades Radar  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastebin.com/92hrTNVU) |
+
+
+## WeakAuras - Nighthold
+
+
+## WeakAuras - Tomb of Sargeras
+| ---     | Import String |
+|------------|---------------|
+| Tomb of Sargeras  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastebin.com/sskukT9e) |
+
+## WeakAuras - Antorus
+sskukT9e
 
 
