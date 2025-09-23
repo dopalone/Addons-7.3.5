@@ -3,7 +3,7 @@ Also check:
 [![Addons](https://dummyimage.com/200x100/4a90e2/ffffff&text=Addons%20%E2%86%90)](https://github.com/dopalone/Addons-7.3.5)
 
 
-## ![WeakAuras - Emerald Nightmare](https://raw.githubusercontent.com/dopalone/Addons-7.3.5/main/Stuff/Xavius_icon_64x64.png) WeakAuras - Emerald Nightmare
+## ![WeakAuras - Emerald Nightmare](https://raw.githubusercontent.com/dopalone/Addons-7.3.5/main/Stuff/Xavius_icon_64x64.png) Emerald Nightmare
 
 | Boss       | Import String |
 |------------|---------------|
@@ -17,22 +17,22 @@ Also check:
 | Xavius - Nightmare Blades Radar  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastebin.com/92hrTNVU) |
 
 
-## ![Elisande](https://raw.githubusercontent.com/dopalone/Addons-7.3.5/main/Stuff/Elisande_icon_64x64.png) WeakAuras - Nighthold
+## ![Elisande](https://raw.githubusercontent.com/dopalone/Addons-7.3.5/main/Stuff/Elisande_icon_64x64.png) Nighthold
 | ---     | Import String |
 |------------|---------------|
 | Nighthold  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastebin.com/2YXGbukq) |
 
-## ![ToS](https://raw.githubusercontent.com/dopalone/Addons-7.3.5/main/Stuff/Tomb_of_Sargeras_icon_64x64.png) WeakAuras - Tomb of Sargeras
+## ![ToS](https://raw.githubusercontent.com/dopalone/Addons-7.3.5/main/Stuff/Tomb_of_Sargeras_icon_64x64.png) Tomb of Sargeras
 | ---     | Import String |
 |------------|---------------|
 | Tomb of Sargeras  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastebin.com/sskukT9e) |
 
-## ![A](https://raw.githubusercontent.com/dopalone/Addons-7.3.5/main/Stuff/ax.png) WeakAuras - Antorus
+## ![A](https://raw.githubusercontent.com/dopalone/Addons-7.3.5/main/Stuff/ax.png) Antorus
 | ---     | Import String |
 |------------|---------------|
 | Antorus, the Burning Throne  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastebin.com/nd3ZWazj) |
 
-## ![D](https://raw.githubusercontent.com/dopalone/Addons-7.3.5/main/Stuff/output-onlinepngtools(2).png) WeakAuras - Dungeons
+## ![D](https://raw.githubusercontent.com/dopalone/Addons-7.3.5/main/Stuff/output-onlinepngtools(2).png) Dungeons
 | Dungeon    | Import String |
 |------------|---------------|
 | M+ Affixes  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastes.io/affixes-37) |
