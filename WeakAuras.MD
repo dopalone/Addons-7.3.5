@@ -1,4 +1,4 @@
-## Emerald Nightmare ![WeakAuras - Emerald Nightmare](https://raw.githubusercontent.com/dopalone/Addons-7.3.5/main/Stuff/Xavius_icon_64x64.png)
+## ![WeakAuras - Emerald Nightmare](https://raw.githubusercontent.com/dopalone/Addons-7.3.5/main/Stuff/Xavius_icon_64x64.png) WeakAuras - Emerald Nightmare
 
 | Boss       | Import String |
 |------------|---------------|
@@ -12,17 +12,17 @@
 | Xavius - Nightmare Blades Radar  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastebin.com/92hrTNVU) |
 
 
-## WeakAuras - Nighthold
+## ![Elisande](https://raw.githubusercontent.com/dopalone/Addons-7.3.5/main/Stuff/Elisande_icon_64x64.png) WeakAuras - Nighthold
 | ---     | Import String |
 |------------|---------------|
 | Nighthold  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastebin.com/2YXGbukq) |
 
-## WeakAuras - Tomb of Sargeras
+## ![ToS](https://raw.githubusercontent.com/dopalone/Addons-7.3.5/main/Stuff/Tomb_of_Sargeras_icon_64x64.png) WeakAuras - Tomb of Sargeras
 | ---     | Import String |
 |------------|---------------|
 | Tomb of Sargeras  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastebin.com/sskukT9e) |
 
-## WeakAuras - Antorus
+## ![A](https://raw.githubusercontent.com/dopalone/Addons-7.3.5/main/Stuff/Gemini_Generated_Image_ph32woph32woph32.png) WeakAuras - Antorus
 | ---     | Import String |
 |------------|---------------|
 | Antorus, the Burning Throne  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastebin.com/nd3ZWazj) |
