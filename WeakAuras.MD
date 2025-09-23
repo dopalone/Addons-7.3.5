@@ -43,3 +43,7 @@
 | Maw of Souls  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastebin.com/mgjs5svC) |
 | Neltharion's Lair  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://privatebin.net/?dbe0d2bb9e573112#GDQBBGTAKgEs6LUMa8LqyvPYbc7BaN3LPtrQtPXqTmXX) |
 | Halls of Valor  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://privatebin.net/?34623b0a3b080329#4ejjnCGTna2gQC3GDai9NhJ4XLwVMzfkAvNr4qe5iQJS) |
+Also check
+
+
+[![Addons](https://dummyimage.com/200x100/4a90e2/ffffff&text=Addons%20%E2%86%90)](https://github.com/dopalone/Addons-7.3.5)
