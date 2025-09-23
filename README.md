@@ -69,6 +69,7 @@
 
 ## WeakAuras
 
-|  | Powerful visual alerts and tracking | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastebin.com/pWPZQCX0) |
+| Boss | Import String |
+| Nythendra | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastebin.com/hvEcmq2G) |
 
 
