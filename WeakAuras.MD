@@ -22,7 +22,7 @@
 |------------|---------------|
 | Tomb of Sargeras  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastebin.com/sskukT9e) |
 
-## ![A](https://raw.githubusercontent.com/dopalone/Addons-7.3.5/main/Stuff/Gemini_Generated_Image_ph32woph32woph32.png) WeakAuras - Antorus
+## ![A](https://raw.githubusercontent.com/dopalone/Addons-7.3.5/main/Stuff/output-onlinepngtools.png) WeakAuras - Antorus
 | ---     | Import String |
 |------------|---------------|
 | Antorus, the Burning Throne  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastebin.com/nd3ZWazj) |
