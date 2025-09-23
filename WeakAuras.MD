@@ -27,12 +27,12 @@ Also check:
 |------------|---------------|
 | Tomb of Sargeras  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastebin.com/sskukT9e) |
 
-## ![A](https://raw.githubusercontent.com/dopalone/Addons-7.3.5/main/Stuff/output-onlinepngtools.png) WeakAuras - Antorus
+## ![A](https://raw.githubusercontent.com/dopalone/Addons-7.3.5/main/Stuff/ax.png) WeakAuras - Antorus
 | ---     | Import String |
 |------------|---------------|
 | Antorus, the Burning Throne  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastebin.com/nd3ZWazj) |
 
-## ![D](https://raw.githubusercontent.com/dopalone/Addons-7.3.5/main/Stuff/ax.png) WeakAuras - Dungeons
+## ![D](https://raw.githubusercontent.com/dopalone/Addons-7.3.5/main/Stuff/output-onlinepngtools(2).png.png) WeakAuras - Dungeons
 | Dungeon    | Import String |
 |------------|---------------|
 | M+ Affixes  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastes.io/affixes-37) |
