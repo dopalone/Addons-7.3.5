@@ -1,4 +1,4 @@
-## WeakAuras - Emerald Nightmare
+## ![WeakAuras - Emerald Nightmare](https://raw.githubusercontent.com/dopalone/Addons-7.3.5/main/Stuff/Xavius_icon_64x64.png)
 
 | Boss       | Import String |
 |------------|---------------|
