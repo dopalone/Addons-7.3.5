@@ -92,6 +92,9 @@
 | Tomb of Sargeras  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastebin.com/sskukT9e) |
 
 ## WeakAuras - Antorus
-sskukT9e
+| ---     | Import String |
+|------------|---------------|
+| Antorus, the Burning Throne  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastebin.com/nd3ZWazj) |
+
 
 
