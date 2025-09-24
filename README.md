@@ -2,6 +2,7 @@ Also check:
 
 
 [![WeakAuras](https://dummyimage.com/200x100/4a90e2/ffffff&text=WeakAuras%20%E2%86%92)](https://github.com/dopalone/Addons-7.3.5/blob/main/WeakAuras.MD)
+
 [![UI WAs →](https://dummyimage.com/160x50/4a90e2/ffffff&text=UI+WAs+→)](https://github.com/dopalone/Addons-7.3.5/tree/main/WeakAuras)
 
 
