@@ -1,3 +1,5 @@
+## A collection of UIs and generic WeakAuras made by me, all of them are adjusted to be edited for any class and spec with basic WeakAuras knowledge.
+
 ## ![WeakAuras - Arms Warrior](https://raw.githubusercontent.com/dopalone/Addons-7.3.5/main/Stuff/ms.png) Arms Warrior UI
 
 Whole, easily editable UI, auto-changing depending on which talents you pick.
