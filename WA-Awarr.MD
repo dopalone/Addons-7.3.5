@@ -9,7 +9,7 @@
 | Arms - Procs/DoT/No GCD  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastes.io/dopalone-9-1) |
 | Arms - Rage & HP Bar  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastes.io/dopalone-9-2) |
 
-[WeakAuras - Arms Warrior](https://raw.githubusercontent.com/dopalone/Addons-7.3.5/main/Stuff/Screenshot_16.png) How it looks.
+![WeakAuras - Arms Warrior](https://raw.githubusercontent.com/dopalone/Addons-7.3.5/main/Stuff/Screenshot_16.png) How it looks.
 
 
 
