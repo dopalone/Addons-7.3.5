@@ -71,3 +71,5 @@ Also check:
 | RCLootCouncil | Streamlines loot distribution in raids | [![zip](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/RCLootCouncil.zip) |
 | NuggetList | Lightweight blacklist addon | [![zip](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/NuggetList.zip) |
 | AtlasLoot | Browse loot tables from dungeons and raids | [![zip](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/AtlasLoot.zip) |
+| GarrisonMissionManager | Automates WoD garrison missions with optimized follower selection | [![zip](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/GarrisonMissionManager-v55.zip) |
+| Zygor Guides | In-game leveling, questing, and achievement guide with waypointing | [![zip](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Zygor Legion Release 6.1.18224.rar) |
