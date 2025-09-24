@@ -1,5 +1,3 @@
-Also check:
-
 [![Addons](https://dummyimage.com/200x100/4a90e2/ffffff&text=Addons%20%E2%86%90)](https://github.com/dopalone/Addons-7.3.5)
 
 
