@@ -15,8 +15,6 @@ Whole, easily editable UI, auto-changing depending on which talents you pick.
 
 [![Button](https://dummyimage.com/120x40/4a90e2/ffffff&text=Click+Me)](https://raw.githubusercontent.com/dopalone/Addons-7.3.5/main/Stuff/Screenshot_16.png)
 
-![WeakAuras - Arms Warrior](https://raw.githubusercontent.com/dopalone/Addons-7.3.5/main/Stuff/Screenshot_16.png) How it looks.
-
 ## ![WeakAuras - Outlaw Rogue](https://raw.githubusercontent.com/dopalone/Addons-7.3.5/main/Stuff/outlaw.png) Outlaw Rogue UI
 
 | Type     | Import String |
