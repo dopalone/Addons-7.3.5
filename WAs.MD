@@ -17,6 +17,8 @@ Whole, easily editable UI, auto-changing depending on which talents you pick.
 
 ## ![WeakAuras - Outlaw Rogue](https://raw.githubusercontent.com/dopalone/Addons-7.3.5/main/Stuff/outlaw.png) Outlaw Rogue UI
 
+Same as Arms UI, modular and auto-changing depending on your talents, situation and if you are stealthed.
+
 | Type     | Import String |
 |------------|---------------|
 | Outlaw - CDs | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastes.io/dopalone-2-1) |
