@@ -64,15 +64,16 @@ Also check:
 | Bagnon_ItemLevel | Displays item levels in Bagnon | [![zip](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Bagnon_ItemLevel.zip) |
 | Scrap | Automatically sells junk items | [![zip](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Scrap.zip) |
 | Postal | Enhances mailbox functionality | [![zip](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Postal.zip) |
+| GarrisonMissionManager | Automates WoD garrison missions with optimized follower selection | [![zip](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/GarrisonMissionManager-v55.zip) |
 | GatherMate2+Data | Tracks gathering nodes on the map | [![zip](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/GatherMate2+Data.zip) |
 | HandyNotes | Adds map notes for treasures, rares, etc. | [![zip](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/HandyNotes.zip) |
 | SilverDragon | Alerts and tracks rare spawns | [![zip](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/SilverDragon.zip) |
 | SavedInstances | Tracks weekly dungeon and raid lockouts | [![zip](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/SavedInstances.zip) |
 | Simulationcraft | Exports character data for SimC | [![zip](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Simulationcraft.zip) |
 | TradeSkillMaster | Advanced auction and crafting management | [![zip](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/TradeSkillMaster.zip) |
+| Zygor Guides | In-game leveling, questing, and achievement guide with waypointing | [![zip](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/zygor.zip) |
 | Pawn | Helps compare gear upgrades | [![zip](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Pawn.zip) |
 | RCLootCouncil | Streamlines loot distribution in raids | [![zip](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/RCLootCouncil.zip) |
 | NuggetList | Lightweight blacklist addon | [![zip](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/NuggetList.zip) |
 | AtlasLoot | Browse loot tables from dungeons and raids | [![zip](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/AtlasLoot.zip) |
-| GarrisonMissionManager | Automates WoD garrison missions with optimized follower selection | [![zip](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/GarrisonMissionManager-v55.zip) |
-| Zygor Guides | In-game leveling, questing, and achievement guide with waypointing | [![zip](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/zygor.zip) |
+
