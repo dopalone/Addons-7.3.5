@@ -1,5 +1,7 @@
 ## ![WeakAuras - Arms Warrior](https://raw.githubusercontent.com/dopalone/Addons-7.3.5/main/Stuff/ms.png) Arms Warrior UI
 
+Whole, easily editable UI, auto-changing depending on which talents you pick.
+
 | Type     | Import String |
 |------------|---------------|
 | Arms - CDs  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastes.io/dopalone-3-2) |
