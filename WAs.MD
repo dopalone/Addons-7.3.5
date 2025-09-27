@@ -10,7 +10,7 @@ Whole, easily editable UI, auto-changing depending on which talents you pick.
 |------------|---------------|
 | Fury - CDs  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastes.io/dopalone-1-4) |
 | Fury - Core  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastes.io/dopalone-7) |
-| Fury - Defensive CDs  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastes.io/dopalone-2-2 |
+| Fury - Defensive CDs  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastes.io/dopalone-2-2) |
 | Fury - Interrupts | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastes.io/dopalone-4-3) |
 | Fury - Procs/Auras  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastes.io/dopalone-9-5) |
 | Fury - Rage & HP Bar  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastes.io/dopalone-9-6ww) |
