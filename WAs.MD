@@ -1,25 +1,25 @@
 [![Addons](https://dummyimage.com/200x100/4a90e2/ffffff&text=Addons%20%E2%86%90)](https://github.com/dopalone/Addons-7.3.5)
 
-## A collection of UIs and generic WeakAuras made by me, all of them are adjusted to be edited for any class and spec with basic WeakAuras knowledge.
+## A collection of UIs and generic WeakAuras made by me, all of them are adjusted to be edited for any class and spec with basic WeakAuras knowledge. Requires WA backport 2.16.3 downloadable in Addons.
 
-## ![WeakAuras - Arms Warrior](https://raw.githubusercontent.com/dopalone/Addons-7.3.5/main/Stuff/ms.png) Arms Warrior UI
+## ![WeakAuras - Fury Warrior](https://raw.githubusercontent.com/dopalone/Addons-7.3.5/main/Stuff/warrior-fury.DFQjIoN-.png) Fury Warrior UI
 
 Whole, easily editable UI, auto-changing depending on which talents you pick.
 
 | Type     | Import String |
 |------------|---------------|
-| Arms - CDs  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastes.io/dopalone-3-2) |
-| Arms - Core  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastes.io/dopalone-9) |
-| Arms - Defensive CDs  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastes.io/dopalone-2) |
-| Arms - Interrupts | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastes.io/dopalone-1) |
-| Arms - Procs/DoT/No GCD  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastes.io/dopalone-9-1) |
-| Arms - Rage & HP Bar  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastes.io/dopalone-9-2) |
+| Fury - CDs  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastes.io/dopalone-1-4) |
+| Fury - Core  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastes.io/dopalone-7) |
+| Fury - Defensive CDs  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastes.io/dopalone-2-2 |
+| Fury - Interrupts | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastes.io/dopalone-4-3) |
+| Fury - Procs/Auras  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastes.io/dopalone-9-5) |
+| Fury - Rage & HP Bar  | [![paste](https://img.shields.io/badge/-Pastebin-blue?logo=pastebin&logoColor=white)](https://pastes.io/dopalone-9-6ww) |
 
-[![Button](https://dummyimage.com/120x40/4a90e2/ffffff&text=Click+Me)](https://raw.githubusercontent.com/dopalone/Addons-7.3.5/main/Stuff/Screenshot_18.png)
+[![Button](https://dummyimage.com/120x40/4a90e2/ffffff&text=Click+Me)](https://raw.githubusercontent.com/dopalone/Addons-7.3.5/main/Stuff/Screenshot_32.png)
 
 ## ![WeakAuras - Outlaw Rogue](https://raw.githubusercontent.com/dopalone/Addons-7.3.5/main/Stuff/outlaw.png) Outlaw Rogue UI
 
-Same as Arms UI, modular and auto-changing depending on your talents, situation and if you are stealthed.
+Same as Fury UI, modular and auto-changing depending on your talents, situation and if you are stealthed.
 
 | Type     | Import String |
 |------------|---------------|
