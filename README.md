@@ -28,7 +28,7 @@ Also check:
 | TellMeWhen | Visual alerts for buffs, debuffs, cooldowns | [![zip](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/TellMeWhen.zip) |
 | Clique | Click-casting and mouseover healing | [![zip](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/Clique.zip) |
 | VuhDo | Raid frames with healing tools | [![zip](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/VuhDo.zip) |
-| WeakAuras | Powerful visual alerts and tracking | [![zip](https://img.shields.io/badge/download-zip-blue)](https://github.com/dopalone/Addons-7.3.5/raw/main/Addons/WeakAuras.zip) |
+| WeakAuras | Powerful visual alerts and tracking | [![zip](https://img.shields.io/badge/download-zip-blue)](https://github.com/Maczuga/WeakAuras2-Legion/releases) |
 
 
 ---
